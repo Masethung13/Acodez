@@ -1,0 +1,38 @@
+body, h1, h2, h3, h4, h5, h6, p, li, ul{
+    margin: 0;
+    padding:0;
+    font-family: "Open Sans", sans-serif;
+}
+img{
+    width: 100%;
+}
+
+.tac{
+    text-align: center;
+}
+.grid{
+    display: flex;
+}
+
+.grid-3 .grid-sec{
+    width: 33.33%;
+}
+.grid-4 .grid-sec{
+    width: 25%;
+}
+.grid-5 .grid-sec{
+    width: 20%;
+}
+.grid-6 .grid-sec{
+    width: 16.77%;
+}
+.jcsb{
+    display: flex;
+    justify-content: space-between;
+}
+.w50{
+    width: 50%;
+}
+
+
+
